@@ -1,6 +1,10 @@
 import '@/app/ui/global.css';
 import { inter } from './ui/fonts';
 
+export const metadata = {
+  title: 'Acme Next.js',
+}
+
 export default function RootLayout({
   children,
 }: {
