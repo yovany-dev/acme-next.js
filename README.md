@@ -1,5 +1,24 @@
-## Next.js App Router Course - Starter
+## Acme Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+Sistema web de facturas del tutorial práctico de la documentación de Next.js con autenticación  y base de datos.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### Credenciales para acceder al sistema
+```
+user@nextmail.com
+```
+```
+123456
+```
+
+### Stack
+- Next.js
+- TypeScript
+- TailwindCSS
+- PostgresSQL
+- NextAuth.js
+- Zod
+
+### Enlaces
+- [Demo](https://acme-nextjs-snowy.vercel.app/login?callbackUrl=https%3A%2F%2Facme-nextjs-snowy.vercel.app%2Fdashboard)
+- [Documentación](https://nextjs.org/learn/dashboard-app)
+- [Portafolio](https://yovanymorales.dev/)
